@@ -1,6 +1,6 @@
 {
   "name": "scandit-capacitor-datacapture-id-aamva-barcode-verification",
-  "version": "6.23.0",
+  "version": "6.23.1",
   "description": "Scandit Data Capture SDK for Capacitor",
   "files": [
     "android/",
