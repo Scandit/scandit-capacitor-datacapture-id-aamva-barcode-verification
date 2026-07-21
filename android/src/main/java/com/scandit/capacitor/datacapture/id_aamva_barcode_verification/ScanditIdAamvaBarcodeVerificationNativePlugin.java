@@ -7,8 +7,8 @@ import com.getcapacitor.annotation.CapacitorPlugin;
 
 @CapacitorPlugin(name = "ScanditIdAamvaBarcodeVerificationNative")
 public class ScanditIdAamvaBarcodeVerificationNativePlugin extends Plugin {
-    @PluginMethod
-    public void echo(PluginCall call) {
-        call.resolve();
-    }
+  @PluginMethod
+  public void echo(PluginCall call) {
+    call.resolve();
+  }
 }
